@@ -1,2 +1,2 @@
-# howBrowsersWork
-A clear description of how a browser functions
+## howBrowsersWork
+<dd>This project talks about the functionalities of a browser and how it reads the different resources to display a webpage</dd>
